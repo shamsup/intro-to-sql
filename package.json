@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-sql",
+  "version": "0.0.1",
+  "description": "A quikc introduction to SQL using node.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[1;2D\u001b[No\u001b[2~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "^2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamsup/intro-to-sql.git"
+  },
+  "author": "shamsup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamsup/intro-to-sql/issues"
+  },
+  "homepage": "https://github.com/shamsup/intro-to-sql#readme"
+}
