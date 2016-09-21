@@ -2,6 +2,12 @@
 This repo is meant to give you a quick guide to getting up and running with mysql
 in node.js.
 
+## Databases are smart.
+
+These exercises are geared to help you understand how to move your data processing to the database, which will keep your program free to perform other operations.
+
+Databases are very efficient. Don't be afraid to use them.
+
 ## The gist.
 * Install mysql server: [MySQL Downloads](http://dev.mysql.com/downloads/mysql/)
 * Take note of your MySQL server settings
@@ -27,9 +33,3 @@ Answer these questions by running queries on node and processing the data by wha
 *this one could be pretty difficult
 
 After you can answer those  (_confidently_) using SQL and javascript together, try implementing them using _only SQL_ to get the same result.
-
-## Databases are smart.
-
-This exercise is geared to help you understand how to move your data processing to the database, which will keep your program free to perform other operations.
-
-Databases are very efficient. Don't be afraid to use them.
